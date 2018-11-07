@@ -1,0 +1,9 @@
+node_modules/
+.sass-cache/
+*.css
+*.css.map
+*.scss.map 
+
+# Arquivos criados 
+
+dist/
