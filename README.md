@@ -1,6 +1,6 @@
 # Boilerplate NPM
 
-Boilerplate simples para proketos em JS e SCSS
+Boilerplate simples para projetos em JS e SCSS
 
 ## Dependências do projeto 
 - npm (^6.4.1)
